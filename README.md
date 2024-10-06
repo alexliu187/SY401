@@ -9,6 +9,7 @@ Category: Network Mapping / Active Reconaissance
 
 ## Location
 Application -> 02-Vulnerability Analysis -> nmap
+
 ![KaliApplication](./KaliNmap.png)
 
 ## Install Guide
@@ -21,5 +22,6 @@ sudo apt-get install nmap
 ![FilesDirectory](./nmapscan.png)
 
 ## Options and Scan Types
-Command Syntax: nmap -option <IP>
+Command Syntax: nmap -option IP address
+
 ![KaliScan](./kali_scan.png)
