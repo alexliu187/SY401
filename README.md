@@ -15,5 +15,5 @@ sudo apt-get update
 sudo apt-get install nmap
 
 ## Options and Scan Types
-![KaliOptions](./Files.png)
-![FilesDirectory](./Files.png)
+![KaliOptions](./nmap options.png)
+![FilesDirectory](./nmap ports.png)
