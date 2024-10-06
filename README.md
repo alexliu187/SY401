@@ -12,6 +12,7 @@ Application -> 02-Vulnerability Analysis -> nmap
 
 ## Install Guide
 sudo apt-get update
+
 sudo apt-get install nmap
 
 ## Options and Scan Types
