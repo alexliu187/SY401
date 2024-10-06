@@ -1,20 +1,19 @@
 ## KALI TOOL - NMAP
 Category: Network Mapping / Active Reconaissance
 
-## Instructions
+## Purpose
+1. Powerful tool for finding open ports, examining hosts, and extracting useful information about port services
+2. Free and open source utility for network exploration, obtaining network inventory documents, and other information about organizational infrastructure
+3. Operates using raw IP packets
+4. Features Include: ping sweep, scan and show open ports, determine open services, discovering and listing hosts, service version discovery, and more active reconnaissance features 
 
-[ Description / hints / connection instructions given by challenge author ]
+## Location
+Application -> 02-Vulnerability Analysis -> nmap
 
-## Solution
+## Install Guide
+sudo apt-get update
+sudo apt-get install nmap
 
-[ Describe your methodology for solving the challenge in a repeatable way ]
-[ Be sure to include images, screenshots, and/or code that clarify your procedure ]
-
-## Flag
-
-[ The flag here ]
-
-## Mitigation
-
-[ Describe the security issue that this problem highlights ]
-[ What action could you take or what code could you modify to protect an organization with this vulnerability? ]
+## Options and Scan Types
+![KaliOptions](./Files.png)
+![FilesDirectory](./Files.png)
