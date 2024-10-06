@@ -25,3 +25,14 @@ sudo apt-get install nmap
 Command Syntax: nmap -option IP address
 
 ![KaliScan](./kali_scan.png)
+
+## Examples of nmap usage
+Scan and show open ports: nmap --open ‘IP address’
+Determine open services: nmap -sV ‘IP address’
+
+Ping Scan: nmap -sP ‘IP address/port #’
+
+Scan HTTPS and HTTP Port: nmap -p 443,80 ‘IP address’
+
+** Click on nmap application on Kali Desktop to see all options and services along with command syntax
+
