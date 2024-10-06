@@ -18,3 +18,6 @@ sudo apt-get install nmap
 ## Options and Scan Types
 ![KaliOptions](./nmapoptions.png)
 ![FilesDirectory](./nmapscan.png)
+
+## Options and Scan Types
+Command Syntax: nmap -option <IP>
